@@ -1,4 +1,4 @@
-cav_data = '''id kh,tuoi,gioi tinh,thu nhap,nghe,diem tin dung,sp da mua,gia,so luong,ngay mua
+csv_data = '''id kh,tuoi,gioi tinh,thu nhap,nghe,diem tin dung,sp da mua,gia,so luong,ngay mua
 1,30,nam,50000.ky su phan mem,750,dien thoai,5000,1,2026-02-15
 2,25,nu,30000,giao vien,680,may tinh,700,1,2026-01-10
 3,40,nam,75000,bac si,820,tivi,1000,1,2026-03-02
