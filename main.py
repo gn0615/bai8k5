@@ -19,7 +19,7 @@ chi_tieu = df[df['nghe'].isin(['bac si','chu doanh nghiep'])]['id kh'].tolist()
 
 st.subhesder('kq phan tich')
 st.write('kh co kha nang roi bo:',roi_bo)
-st.write('kh co kha nang mua hang thang toi',mua hanh)
+st.write('kh co kha nang mua hang thang toi',mua_hang)
 st.write('kh co kha nang chi tieu nhieu hon',chi_tieu)
 
 import google.generativeai as genai
