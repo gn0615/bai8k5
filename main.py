@@ -9,7 +9,7 @@ with open('bai8.csv','w',encoding='utf-8') as f: f.write(csv_data)
 import streamlit as st, pandas as pd
 df = pd.read_csv('bai8.csv')
 st.title('phan tich dl khach hang')
-st,subheader('dl goc:')
+st.subheader('dl goc:')
 st.dataframe(df)
 
 
